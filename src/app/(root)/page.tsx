@@ -3,7 +3,7 @@
 export default function Home() {
   return (
     <div className="">
-      Bernard
+      Bernard Bebeni
     </div>
   );
 }
